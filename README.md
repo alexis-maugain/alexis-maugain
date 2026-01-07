@@ -1,20 +1,13 @@
 # 👋 Salut, moi c'est Alexis !
 
+Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin en 3ème année de BUT MMI.
+
 ### 🎨 Designer & Développeur Web Créatif
 
 Passionné par la création d'expériences numériques uniques, je combine design UI/UX et développement web pour donner vie à des projets innovants.
 
 ---
 
-## 🚀 À propos de moi
-
-- 🎓 Étudiant en développement web et design
-- 💼 Expérience en agence chez **Phénix Studio**
-- 🎯 Spécialisé en **UI/UX Design**, **Développement Frontend** et **Motion Design**
-- 🌱 Actuellement en train d'explorer **React**, **TypeScript** et **Blender**
-- 💡 J'adore créer des interfaces inspirées par la musique et la culture pop
-
----
 
 ## 🛠️ Technologies & Outils
 
@@ -42,37 +35,6 @@ Passionné par la création d'expériences numériques uniques, je combine desig
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexis-maugain&show_icons=true&theme=spotify&hide_border=true&bg_color=0D1117&title_color=1DB954&icon_color=1DB954&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-maugain&layout=compact&theme=spotify&hide_border=true&bg_color=0D1117&title_color=1DB954&text_color=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexis-maugain&theme=spotify-dark&hide_border=true&background=0D1117&ring=1DB954&fire=1DB954&currStreakLabel=1DB954" />
-</div>
-
----
-
-## 🎯 Projets Phares
-
-### 🎵 [Portfolio Spotfolio](https://github.com/alexis-maugain/Spotfolio)
-Portfolio web inspiré de Spotify avec interface interactive et animations fluides.
-- **Tech Stack:** React, TypeScript, Vite, TailwindCSS
-- **Features:** Mode sombre, navigation dynamique, animations personnalisées
-
-### 🍷 Refonte Site Web Cave à Vin
-Refonte complète d'un site e-commerce avec espace professionnel dédié.
-- **Tech Stack:** WordPress, Figma
-- **Role:** Lead UX/UI Designer chez Phénix Studio
-
-### 🎮 Digital Cleanup Game
-Jeu 2D de sensibilisation à la pollution numérique développé lors de la Nuit du Code.
-- **Tech Stack:** P5Play.js, JavaScript, HTML/CSS
-- **Features:** Gameplay éducatif, animations interactives
-
----
 
 ## 📫 Me Contacter
 
@@ -80,13 +42,6 @@ Jeu 2D de sensibilisation à la pollution numérique développé lors de la Nuit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-maugain)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexis.maugain@gmail.com)
 
----
-
-## 🎧 Fun Fact
-
-> Mon portfolio est inspiré de Spotify car je code toujours en musique 🎵
-> 
-> *"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs*
 
 ---
 
