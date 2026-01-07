@@ -13,6 +13,8 @@ Passionné par la création d'expériences numériques uniques, je combine desig
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexis.maugain@gmail.com)
 
 </div>
+
+
 ---
 
 ### 💼 Compétences
