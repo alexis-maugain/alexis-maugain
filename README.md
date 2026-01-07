@@ -87,7 +87,5 @@ Passionné par la création d'expériences numériques uniques, je combine desig
 
 ### 💬 N'hésitez pas à me contacter pour discuter de projets ou d'opportunités !
 
----
-
 
 </div>
