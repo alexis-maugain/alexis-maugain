@@ -89,9 +89,5 @@ Passionné par la création d'expériences numériques uniques, je combine desig
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexis-maugain&color=1DB954&style=for-the-badge&label=VISITEURS)
-
-*"Le design n'est pas seulement ce à quoi ça ressemble et ce que ça fait ressentir.*  
-*Le design, c'est comment ça fonctionne."* — Steve Jobs
 
 </div>
