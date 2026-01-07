@@ -1,3 +1,5 @@
+![Bannière LinkedIn](assets/bannière%20linkedin.png)
+
 <div align="center">
   
 # 👋 Salut, moi c'est Alexis Maugain !
