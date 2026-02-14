@@ -8,7 +8,7 @@
 
 Passionné par la création d'expériences numériques uniques, je combine design UI/UX et développement web pour donner vie à des projets innovants.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1DB954?style=for-the-badge)](https://alexis-maugain.github.io/Spotfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1DB954?style=for-the-badge)](https://alexis-maugain.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-maugain)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexis.maugain@gmail.com)
 
@@ -79,7 +79,7 @@ Passionné par la création d'expériences numériques uniques, je combine desig
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Mon_Portfolio-1DB954?style=for-the-badge)](https://alexis-maugain.github.io/Spotfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Mon_Portfolio-1DB954?style=for-the-badge)](https://alexis-maugain.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-maugain)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexis.maugain@gmail.com)
 
